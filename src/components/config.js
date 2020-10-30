@@ -14,7 +14,8 @@ export const PLAYER				= 'player';
 export const BANK				= 'bank';
 export const LINES				= '========================================';
 export const STARS				= '****************************************';
-export const MAIN_TITLE 		= 'blackjack';
+
+export const MAIN_TITLE 		= 'simple blackjack';
 export const TITLE_PLAYER 		= 'játékos';
 export const TITLE_BANK 		= 'bank';
 export const START				= 'start';
