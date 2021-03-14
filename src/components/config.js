@@ -1,5 +1,5 @@
 export const APP_NAME			= 'blackjack';
-export const APP_VERSION		= '0.8';
+export const APP_VERSION		= '1.0';
 export const APP_EMAIL			= 'info@tothj.com';
 export const APP_ENV			= 'prod';
 export const DEBUG				= (APP_ENV === 'dev') ? true : false;
@@ -15,7 +15,7 @@ export const BANK				= 'bank';
 export const LINES				= '========================================';
 export const STARS				= '****************************************';
 
-export const MAIN_TITLE 		= 'simple blackjack';
+export const MAIN_TITLE 		= '52 lapos blackjack';
 export const TITLE_PLAYER 		= 'játékos';
 export const TITLE_BANK 		= 'bank';
 export const START				= 'start';
